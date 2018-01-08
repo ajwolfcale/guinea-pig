@@ -1,0 +1,33 @@
+button {
+    display: block;
+}
+
+.black {
+    color:black;
+}
+
+.blue {
+    color:blue;
+}
+
+
+.hulk {
+    font-size: 30px;
+}
+
+.trapped {
+    border: 5px solid black;
+}
+
+.round {
+    border-radius: 20px;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.italic {
+    font-weight: bold;
+    font-style: italic;
+}
